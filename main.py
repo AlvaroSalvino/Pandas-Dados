@@ -19,4 +19,4 @@ print(df.head())
 df = df.rename(columns={'Name':"Nome", 'Age': "Ano", 'Sex': "Sexo"})
 
 print(df.head())
-altera~]ao
+
